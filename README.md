@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 ![](https://github-readme-stats.vercel.app/api?username=BaekGeunYoung&show_icons=true&theme=merko)
